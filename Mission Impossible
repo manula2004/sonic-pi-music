@@ -1,8 +1,7 @@
-#Mission Impossible
-#Coded by Davids Fiddle
 
-use_bpm 160
-amp_bass = 1
+
+use_bpm 175
+amp_bass = 1.5
 amp_hi = 0.5
 amp_kick = 1
 amp_melody = 1.2
